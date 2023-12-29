@@ -8,8 +8,7 @@
 	<name>Keycloak Services Social Lark</name>
 	<description>Keycloak social identity provider for Lark(feishu)</description>
 	<properties>
-		<java.version>1.8</java.version>
-		<keycloak.version>8.0.1</keycloak.version>
+		<keycloak.version>23.0.3</keycloak.version>
 	</properties>
 	<dependencies>
 		<dependency>
